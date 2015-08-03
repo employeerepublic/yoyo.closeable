@@ -1,4 +1,4 @@
-(defproject yoyo.closeable "0.0.1"
+(defproject yoyo.closeable "0.0.2"
   :description "yoyo module for closeable resources"
   :url "https://github.com/employeerepublic/yoyo-closeable"
   :license {:name "Apache License, Version 2.0"
