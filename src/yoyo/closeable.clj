@@ -12,4 +12,4 @@
         (finally
           (log/infof "Stopping %s..." label)
           (.close obj)
-          (log/infof "Stopped %." label))))))
+          (log/infof "Stopped %s." label))))))
